@@ -5,6 +5,7 @@ __pycache__/
 *.docx
 ~*
 Borrador_PROYECTO_04_Salmeron.ipynb
+data/
 
 # C extensions
 *.so
