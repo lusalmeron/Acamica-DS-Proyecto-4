@@ -5,6 +5,7 @@ __pycache__/
 *.docx
 ~*
 data/
+*.txt
 
 # C extensions
 *.so
